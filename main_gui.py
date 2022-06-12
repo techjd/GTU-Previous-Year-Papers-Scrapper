@@ -56,7 +56,7 @@ no_folder_selected = "No Folder Selected"
 
 
 def demo():
-    webbrowser.open("https://www.youtube.com/watch?v=EsXG4YET4zs")
+    webbrowser.open("https://youtu.be/Fe1cZXGIvig")
 
 
 def open_about_me():
