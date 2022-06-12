@@ -17,7 +17,7 @@ def is_connected():
         s.close()
         return True
     except Exception:
-        pass  # we ignore any errors, returning False
+        pass
     return False
 
 
@@ -166,7 +166,6 @@ def getPaper():
 # Set window title
 window.title('GTU Previous Year Paper Downloader')
 window.iconbitmap("GTU.ico")
-
 
 # Set window size
 window.geometry("900x600")
