@@ -56,7 +56,7 @@ no_folder_selected = "No Folder Selected"
 
 
 def demo():
-    webbrowser.open("https://youtu.be/Fe1cZXGIvig")
+    webbrowser.open("https://www.youtube.com/watch?v=Fe1cZXGIvig")
 
 
 def open_about_me():
@@ -70,9 +70,9 @@ def contribute():
 
 menubar = Menu(window)
 
-demo = Menu(menubar, tearoff=0)
-menubar.add_cascade(label='Demo', menu=demo)
-demo.add_command(label='Check How To Use ? ', command=demo)
+demo_menu = Menu(menubar, tearoff=0)
+menubar.add_cascade(label='Demo', menu=demo_menu)
+demo_menu.add_command(label='Check How To Use ? ', command=demo)
 
 about_me = Menu(menubar, tearoff=0)
 menubar.add_cascade(label='About Me', menu=about_me)

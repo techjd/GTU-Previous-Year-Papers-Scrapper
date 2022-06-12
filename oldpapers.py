@@ -45,7 +45,7 @@ class OldPaper:
         for code in self.subjectCodes:
             for url in OldPaper.urls:
                 r = requests.get(url)
-                soup = BeautifulSoup(r.content, 'html5lib')
+                soup = BeautifulSoup(r.content, 'lxml')
                 for link in soup.find_all('a', href=True):
                     if link.text.strip() == code:
                         OldPaper.idx += 1
