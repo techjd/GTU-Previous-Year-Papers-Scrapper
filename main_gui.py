@@ -232,4 +232,17 @@ progress_bar = ttk.Progressbar(window, orient=HORIZONTAL, length=300, mode='inde
 
 downloading_label = customtkinter.CTkLabel(window, text="Downloading Started", text_font=('Arial', 24))
 
+optionmenu_var = customtkinter.StringVar(value="option 2")  # set initial value
+
+
+def optionmenu_callback(choice):
+    print("optionmenu dropdown clicked:", choice)
+
+
+combobox = customtkinter.CTkComboBox(master=window,
+                                     values=["option 1", "option 2"],
+                                     command=optionmenu_callback,
+                                     variable=optionmenu_var)
+combobox.grid(row = 10)
+
 window.mainloop()
