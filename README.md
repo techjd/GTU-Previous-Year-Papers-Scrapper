@@ -6,7 +6,7 @@
 
 *And that's how , this software was born 🔥*
 
-<img src="https://user-images.githubusercontent.com/28820868/173666199-f5b74e4d-c628-4b0c-8dd0-9fa3eccce76c.jpeg" width="1000" height="550" />
+<img src="https://user-images.githubusercontent.com/28820868/173666199-f5b74e4d-c628-4b0c-8dd0-9fa3eccce76c.jpeg" width="1000" height="450" />
 
 Demo Link : https://www.youtube.com/watch?v=yG2BZUBhUz8
 
