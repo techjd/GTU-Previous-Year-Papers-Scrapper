@@ -1,6 +1,6 @@
 # GTU Previous Year Papers Downloader / Scrapper
 
-<p>GTU Previous Paper Downloader is a software which simplifies your task 👨‍💻 of downloading previous year papers in just one click.
+<p>GTU Previous Year Paper Downloader is a software which simplifies your task 👨‍💻 of downloading previous year papers in just one click.
   I created this software , because I faced the issue of downloading previous year papers , and it took a lot of time 😅<p>
 <p> </p>
 
