@@ -11,7 +11,7 @@
 
 Demo Link : https://www.youtube.com/watch?v=yG2BZUBhUz8
 
-Download Link: https://drive.google.com/file/d/1YZsVjpzwpjuSXim6IT3J7fJXJbFzxRcB/view?usp=sharing
+Download Link: https://bit.ly/gtu-previous-year-paper-downloader
 _Currently, it only supports BE, ME and MCA_
 
 _The installation is pretty easy , Just Click on next in every step_
